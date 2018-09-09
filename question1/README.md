@@ -1,4 +1,4 @@
-## Question 4
+## Question 1
 
 Compute and print the area of a triangle with base=2 and height=7.
 
