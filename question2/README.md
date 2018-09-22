@@ -7,7 +7,9 @@ Use pi=3.1415
 Compilation Steps:  
 
 gcc question2.c
+
 ./a.out
 
 Output:
+
 75.396004
