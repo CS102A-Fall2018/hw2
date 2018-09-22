@@ -4,4 +4,10 @@ Compute and print the area of a soda can (assuming that it is a simple cylinder)
 
 Compilation Steps:  
 
+gcc question6.c
+
+./a.out
+
 Output:
+
+133.513748
