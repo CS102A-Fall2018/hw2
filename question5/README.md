@@ -6,4 +6,10 @@ Use radius = 6,371 km.
 
 Compilation Steps:  
 
+question5.c
+
+./a.out
+
 Output:
+
+510049440.000000

@@ -4,4 +4,10 @@ Compute and print the distance between two coordinates on the Cartesian XY plane
 
 Compilation Steps:  
 
+question7.c
+
+./a.out
+
 Output:
+
+15.000000
